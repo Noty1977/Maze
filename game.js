@@ -307,7 +307,7 @@ function askQuestion() {
     
     document.getElementById('buttons').appendChild(buttonOk);
     buttonOk.addEventListener('click', function () {
-        window.location.reload()});
+        window.location.reload(false)});
     
 }
 
