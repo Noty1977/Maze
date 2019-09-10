@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poor Story', cursive;
+    font-weight: 300;
+    color: #009688;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p, div {
+    text-align: center;
+    font-size: 1rem;
+}
+/*
+button {
+    font-size: 12px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+*/
+canvas {
+    display: block;
+    margin: 0 auto;
+}
